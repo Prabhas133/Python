@@ -16,11 +16,6 @@ len(d)
 1
 #Count
 a = "twinkle twinkle litttle star"
-a.count()
-Traceback (most recent call last):
-  File "<pyshell#12>", line 1, in <module>
-    a.count()
-TypeError: count expected at least 1 argument, got 0
 a.count("twinkle")
 2
 a.count("t")
@@ -89,11 +84,6 @@ c.upper()
 c[0].upper()
 'P'
 # we have buit-in for it is captialize
-c.captialize()
-Traceback (most recent call last):
-  File "<pyshell#55>", line 1, in <module>
-    c.captialize()
-AttributeError: 'str' object has no attribute 'captialize'. Did you mean: 'capitalize'?
 c.capitalize()
 'Python'
 #Above capitalize
