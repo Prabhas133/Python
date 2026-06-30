@@ -237,28 +237,3 @@ hello motu patlu
 hello sita hello ram
 >>> print(f"hello {a} {b}")
 hello sita ram
->>> 
-=================================================================== RESTART: C:/Users/Admin/Documents/Python/task.py ===================================================================
-sumanth is best friend to prabhas
->>> 
-=================================================================== RESTART: C:/Users/Admin/Documents/Python/task.py ===================================================================
-sumanth is best friend to prabhas
-the product is 20 
->>> 
-=================================================================== RESTART: C:/Users/Admin/Documents/Python/task.py ===================================================================
-sumanth is best friend to prabhas
-the product is 20 
-The product a * b  = 20
->>> 
-=================================================================== RESTART: C:/Users/Admin/Documents/Python/task.py ===================================================================
-sumanth is best friend to prabhas
-the product is 20 
-The product a * b  = 20
-the product is 20 
->>> 
-=================================================================== RESTART: C:/Users/Admin/Documents/Python/task.py ===================================================================
-sumanth is best friend to prabhas
-the product is 20 
-The product a * b  = 20
-the product is 20 
-The product 20
