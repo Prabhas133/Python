@@ -231,11 +231,6 @@ Traceback (most recent call last):
 AttributeError: 'str' object has no attribute 'foramt'. Did you mean: 'format'?
 >>> print("hello {} hello {}".format(a,b))
 hello motu hello patlu
->>> print("hello {} {}".foramt(a,b))
-Traceback (most recent call last):
-  File "<pyshell#148>", line 1, in <module>
-    print("hello {} {}".foramt(a,b))
-AttributeError: 'str' object has no attribute 'foramt'. Did you mean: 'format'?
 >>> print("hello {} {}".format(a,b))
 hello motu patlu
 >>> #.foramt method
