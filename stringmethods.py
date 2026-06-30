@@ -224,11 +224,6 @@ print("hello",a+b)
 hello motupatlu
 print("hello {}{}".format(a,b))
 hello motupatlu
->>> print("hello {} hello {}".foramt(a,b))
-Traceback (most recent call last):
-  File "<pyshell#146>", line 1, in <module>
-    print("hello {} hello {}".foramt(a,b))
-AttributeError: 'str' object has no attribute 'foramt'. Did you mean: 'format'?
 >>> print("hello {} hello {}".format(a,b))
 hello motu hello patlu
 >>> print("hello {} {}".format(a,b))
