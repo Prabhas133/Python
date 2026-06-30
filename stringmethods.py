@@ -160,9 +160,6 @@ a.rstrip()
 
 
 #split
-['python','java','c','c++']
-['python', 'java', 'c', 'c++']
-a = ['python','java','c','c++']
 a = "python java c c++"
 a.split()
 ['python', 'java', 'c', 'c++']
