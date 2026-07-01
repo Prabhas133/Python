@@ -101,7 +101,6 @@ SyntaxError: invalid syntax
 >>> b = "prahbas"
 >>> len(b)
 7
->>> #In list len will be take has word and calculate len of the list , in string it is calculating character in the word.
 >>> 
 >>> #clear
 >>> a.clear
