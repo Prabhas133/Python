@@ -1,0 +1,13 @@
+error handling
+syntax error - compile error
+run_time error - during execution time it will happens
+logical error - error in logic(in can't visible)
+
+#exception handling
+try => Instruction from which we are expecting the exceptions.
+
+except =>exceptions are raised in try block it will be handle by this block.
+
+else =>optional (no exceptions)
+
+finally =>always it will display 
